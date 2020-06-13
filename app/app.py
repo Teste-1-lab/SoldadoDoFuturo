@@ -1,4 +1,3 @@
-#! /bin/sh
 import json
 import os
 import io
